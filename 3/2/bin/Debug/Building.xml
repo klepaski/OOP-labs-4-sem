@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<Building xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Houses>
+    <House>
+      <Date_built>2019-03-18T08:07:09.3792639+03:00</Date_built>
+      <Material>Панель</Material>
+      <Floor>8</Floor>
+      <Rooms>4</Rooms>
+      <Meter>100</Meter>
+      <Result>Колесника: 4-комн., 8 этаж, Панель, 100 кв.м + кухня + ванная</Result>
+      <Address>
+        <Country>РБ</Country>
+        <City>Брест</City>
+        <Street>Колесника</Street>
+        <Home>4</Home>
+        <Apartment>54</Apartment>
+      </Address>
+      <Price>39568</Price>
+    </House>
+    <House>
+      <Date_built>2019-03-18T08:07:09.3792639+03:00</Date_built>
+      <Material>Кирпич</Material>
+      <Floor>5</Floor>
+      <Rooms>2</Rooms>
+      <Meter>10</Meter>
+      <Result>Свердлова: 2-комн., 5 этаж, Кирпич, 10 кв.м + кухня + ванная</Result>
+      <Address>
+        <Country>РБ</Country>
+        <City>Минск</City>
+        <Street>Свердлова</Street>
+        <Home>6</Home>
+        <Apartment>54</Apartment>
+      </Address>
+      <Price>19730</Price>
+    </House>
+    <House>
+      <Date_built>2019-03-18T08:07:09.3792639+03:00</Date_built>
+      <Material>Кирпич</Material>
+      <Floor>5</Floor>
+      <Rooms>1</Rooms>
+      <Meter>45</Meter>
+      <Result>Суворова: 1-комн., 5 этаж, Кирпич, 45 кв.м + кухня</Result>
+      <Address>
+        <Country>РБ</Country>
+        <City>Гродно</City>
+        <Street>Суворова</Street>
+        <Home>6</Home>
+        <Apartment>54</Apartment>
+      </Address>
+      <Price>9730</Price>
+    </House>
+  </Houses>
+  <Address>
+    <Home>0</Home>
+    <Apartment>0</Apartment>
+  </Address>
+</Building>
