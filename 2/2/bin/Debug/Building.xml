@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Building xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Houses>
+    <House>
+      <Date_built>2019-03-07T11:06:16.5957631+03:00</Date_built>
+      <Material>Металл</Material>
+      <Floor>6</Floor>
+      <Rooms>10</Rooms>
+      <Meter>456</Meter>
+      <Result>Колесника: 10-комн., 6 этаж, Металл, 456 кв.м + балкон</Result>
+      <Address>
+        <Country>РБ</Country>
+        <City>Брест</City>
+        <Street>Колесника</Street>
+        <Home>4</Home>
+        <Apartment>45</Apartment>
+      </Address>
+      <Price>99676</Price>
+    </House>
+  </Houses>
+  <Address>
+    <Home>0</Home>
+    <Apartment>0</Apartment>
+  </Address>
+</Building>
