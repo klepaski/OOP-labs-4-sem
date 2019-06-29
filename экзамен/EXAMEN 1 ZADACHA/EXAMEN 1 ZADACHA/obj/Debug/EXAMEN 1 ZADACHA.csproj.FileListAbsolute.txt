@@ -1,0 +1,10 @@
+D:\2 УЧЕБА\ООП\EXAMEN 1 ZADACHA\EXAMEN 1 ZADACHA\bin\Debug\EXAMEN 1 ZADACHA.exe.config
+D:\2 УЧЕБА\ООП\EXAMEN 1 ZADACHA\EXAMEN 1 ZADACHA\bin\Debug\EXAMEN 1 ZADACHA.exe
+D:\2 УЧЕБА\ООП\EXAMEN 1 ZADACHA\EXAMEN 1 ZADACHA\bin\Debug\EXAMEN 1 ZADACHA.pdb
+D:\2 УЧЕБА\ООП\EXAMEN 1 ZADACHA\EXAMEN 1 ZADACHA\obj\Debug\EXAMEN 1 ZADACHA.csprojAssemblyReference.cache
+D:\2 УЧЕБА\ООП\EXAMEN 1 ZADACHA\EXAMEN 1 ZADACHA\obj\Debug\EXAMEN_1_ZADACHA.Form1.resources
+D:\2 УЧЕБА\ООП\EXAMEN 1 ZADACHA\EXAMEN 1 ZADACHA\obj\Debug\EXAMEN_1_ZADACHA.Properties.Resources.resources
+D:\2 УЧЕБА\ООП\EXAMEN 1 ZADACHA\EXAMEN 1 ZADACHA\obj\Debug\EXAMEN 1 ZADACHA.csproj.GenerateResource.cache
+D:\2 УЧЕБА\ООП\EXAMEN 1 ZADACHA\EXAMEN 1 ZADACHA\obj\Debug\EXAMEN 1 ZADACHA.csproj.CoreCompileInputs.cache
+D:\2 УЧЕБА\ООП\EXAMEN 1 ZADACHA\EXAMEN 1 ZADACHA\obj\Debug\EXAMEN 1 ZADACHA.exe
+D:\2 УЧЕБА\ООП\EXAMEN 1 ZADACHA\EXAMEN 1 ZADACHA\obj\Debug\EXAMEN 1 ZADACHA.pdb
