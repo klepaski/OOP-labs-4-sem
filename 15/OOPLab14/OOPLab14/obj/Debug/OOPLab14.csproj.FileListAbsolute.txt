@@ -1,0 +1,68 @@
+D:\Kulack\OOPLab14\OOPLab14\bin\Debug\OOPLab14.exe.config
+D:\Kulack\OOPLab14\OOPLab14\bin\Debug\OOPLab14.exe
+D:\Kulack\OOPLab14\OOPLab14\bin\Debug\OOPLab14.pdb
+D:\Kulack\OOPLab14\OOPLab14\obj\Debug\OOPLab14.csprojResolveAssemblyReference.cache
+D:\Kulack\OOPLab14\OOPLab14\obj\Debug\Dialog.g.cs
+D:\Kulack\OOPLab14\OOPLab14\obj\Debug\MainWindow.g.cs
+D:\Kulack\OOPLab14\OOPLab14\obj\Debug\App.g.cs
+D:\Kulack\OOPLab14\OOPLab14\obj\Debug\OOPLab14_MarkupCompile.cache
+D:\Kulack\OOPLab14\OOPLab14\obj\Debug\OOPLab14_MarkupCompile.lref
+D:\Kulack\OOPLab14\OOPLab14\obj\Debug\Dialog.baml
+D:\Kulack\OOPLab14\OOPLab14\obj\Debug\MainWindow.baml
+D:\Kulack\OOPLab14\OOPLab14\obj\Debug\OOPLab14.g.resources
+D:\Kulack\OOPLab14\OOPLab14\obj\Debug\OOPLab14.Properties.Resources.resources
+D:\Kulack\OOPLab14\OOPLab14\obj\Debug\OOPLab14.csproj.GenerateResource.Cache
+D:\Kulack\OOPLab14\OOPLab14\obj\Debug\OOPLab14.csproj.CoreCompileInputs.cache
+D:\Kulack\OOPLab14\OOPLab14\obj\Debug\OOPLab14.exe
+D:\Kulack\OOPLab14\OOPLab14\obj\Debug\OOPLab14.pdb
+C:\Users\Анастасия\Downloads\OOPLab14\OOPLab14\bin\Debug\OOPLab14.exe.config
+C:\Users\Анастасия\Downloads\OOPLab14\OOPLab14\bin\Debug\OOPLab14.exe
+C:\Users\Анастасия\Downloads\OOPLab14\OOPLab14\bin\Debug\OOPLab14.pdb
+C:\Users\Анастасия\Downloads\OOPLab14\OOPLab14\obj\Debug\OOPLab14.csprojAssemblyReference.cache
+C:\Users\Анастасия\Downloads\OOPLab14\OOPLab14\obj\Debug\Dialog.g.cs
+C:\Users\Анастасия\Downloads\OOPLab14\OOPLab14\obj\Debug\MainWindow.g.cs
+C:\Users\Анастасия\Downloads\OOPLab14\OOPLab14\obj\Debug\App.g.cs
+C:\Users\Анастасия\Downloads\OOPLab14\OOPLab14\obj\Debug\OOPLab14_MarkupCompile.cache
+C:\Users\Анастасия\Downloads\OOPLab14\OOPLab14\obj\Debug\OOPLab14_MarkupCompile.lref
+C:\Users\Анастасия\Downloads\OOPLab14\OOPLab14\obj\Debug\Dialog.baml
+C:\Users\Анастасия\Downloads\OOPLab14\OOPLab14\obj\Debug\MainWindow.baml
+C:\Users\Анастасия\Downloads\OOPLab14\OOPLab14\obj\Debug\OOPLab14.g.resources
+C:\Users\Анастасия\Downloads\OOPLab14\OOPLab14\obj\Debug\OOPLab14.Properties.Resources.resources
+C:\Users\Анастасия\Downloads\OOPLab14\OOPLab14\obj\Debug\OOPLab14.csproj.GenerateResource.cache
+C:\Users\Анастасия\Downloads\OOPLab14\OOPLab14\obj\Debug\OOPLab14.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Downloads\OOPLab14\OOPLab14\obj\Debug\OOPLab14.exe
+C:\Users\Анастасия\Downloads\OOPLab14\OOPLab14\obj\Debug\OOPLab14.pdb
+D:\БГТУ\4 семестр\ООП\lab15\OOPLab14\OOPLab14\obj\Debug\OOPLab14.csprojAssemblyReference.cache
+D:\БГТУ\4 семестр\ООП\lab15\OOPLab14\OOPLab14\obj\Debug\Dialog.g.cs
+D:\БГТУ\4 семестр\ООП\lab15\OOPLab14\OOPLab14\obj\Debug\MainWindow.g.cs
+D:\БГТУ\4 семестр\ООП\lab15\OOPLab14\OOPLab14\obj\Debug\App.g.cs
+D:\БГТУ\4 семестр\ООП\lab15\OOPLab14\OOPLab14\obj\Debug\OOPLab14_MarkupCompile.cache
+D:\БГТУ\4 семестр\ООП\lab15\OOPLab14\OOPLab14\obj\Debug\OOPLab14_MarkupCompile.lref
+D:\БГТУ\4 семестр\ООП\lab15\OOPLab14\OOPLab14\obj\Debug\OOPLab14.exe
+D:\БГТУ\4 семестр\ООП\lab15\OOPLab14\OOPLab14\obj\Debug\OOPLab14.pdb
+D:\БГТУ\4 семестр\ООП\lab15\OOPLab14\OOPLab14\bin\Debug\OOPLab14.exe.config
+D:\БГТУ\4 семестр\ООП\lab15\OOPLab14\OOPLab14\bin\Debug\OOPLab14.exe
+D:\БГТУ\4 семестр\ООП\lab15\OOPLab14\OOPLab14\bin\Debug\OOPLab14.pdb
+D:\БГТУ\4 семестр\ООП\lab15\OOPLab14\OOPLab14\obj\Debug\Dialog.baml
+D:\БГТУ\4 семестр\ООП\lab15\OOPLab14\OOPLab14\obj\Debug\MainWindow.baml
+D:\БГТУ\4 семестр\ООП\lab15\OOPLab14\OOPLab14\obj\Debug\OOPLab14.g.resources
+D:\БГТУ\4 семестр\ООП\lab15\OOPLab14\OOPLab14\obj\Debug\OOPLab14.Properties.Resources.resources
+D:\БГТУ\4 семестр\ООП\lab15\OOPLab14\OOPLab14\obj\Debug\OOPLab14.csproj.GenerateResource.cache
+D:\БГТУ\4 семестр\ООП\lab15\OOPLab14\OOPLab14\obj\Debug\OOPLab14.csproj.CoreCompileInputs.cache
+D:\2 УЧЕБА\ООП\lab15\OOPLab14\OOPLab14\bin\Debug\OOPLab14.exe.config
+D:\2 УЧЕБА\ООП\lab15\OOPLab14\OOPLab14\bin\Debug\OOPLab14.exe
+D:\2 УЧЕБА\ООП\lab15\OOPLab14\OOPLab14\bin\Debug\OOPLab14.pdb
+D:\2 УЧЕБА\ООП\lab15\OOPLab14\OOPLab14\obj\Debug\OOPLab14.csprojAssemblyReference.cache
+D:\2 УЧЕБА\ООП\lab15\OOPLab14\OOPLab14\obj\Debug\Dialog.g.cs
+D:\2 УЧЕБА\ООП\lab15\OOPLab14\OOPLab14\obj\Debug\MainWindow.g.cs
+D:\2 УЧЕБА\ООП\lab15\OOPLab14\OOPLab14\obj\Debug\App.g.cs
+D:\2 УЧЕБА\ООП\lab15\OOPLab14\OOPLab14\obj\Debug\OOPLab14_MarkupCompile.cache
+D:\2 УЧЕБА\ООП\lab15\OOPLab14\OOPLab14\obj\Debug\OOPLab14_MarkupCompile.lref
+D:\2 УЧЕБА\ООП\lab15\OOPLab14\OOPLab14\obj\Debug\Dialog.baml
+D:\2 УЧЕБА\ООП\lab15\OOPLab14\OOPLab14\obj\Debug\MainWindow.baml
+D:\2 УЧЕБА\ООП\lab15\OOPLab14\OOPLab14\obj\Debug\OOPLab14.g.resources
+D:\2 УЧЕБА\ООП\lab15\OOPLab14\OOPLab14\obj\Debug\OOPLab14.Properties.Resources.resources
+D:\2 УЧЕБА\ООП\lab15\OOPLab14\OOPLab14\obj\Debug\OOPLab14.csproj.GenerateResource.cache
+D:\2 УЧЕБА\ООП\lab15\OOPLab14\OOPLab14\obj\Debug\OOPLab14.csproj.CoreCompileInputs.cache
+D:\2 УЧЕБА\ООП\lab15\OOPLab14\OOPLab14\obj\Debug\OOPLab14.exe
+D:\2 УЧЕБА\ООП\lab15\OOPLab14\OOPLab14\obj\Debug\OOPLab14.pdb
