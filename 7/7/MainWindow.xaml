@@ -1,0 +1,32 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_7"
+        xmlns:MyUserControl="clr-namespace:MyUserControl;assembly=WpfControlLibrary3" xmlns:WpfControlLibrary4="clr-namespace:WpfControlLibrary4;assembly=WpfControlLibrary4" 
+    xmlns:MyBaseUserControl="clr-namespace:MyBaseUserControl;assembly=WpfControlLibrary2" x:Class="_7.MainWindow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="319.737" Width="324.624">
+    <Window.CommandBindings>
+        <CommandBinding Command="local:WindowCommands.Exit"
+                        Executed="Exit_Executed"/>
+    </Window.CommandBindings>
+        
+    <Grid>
+       
+        <Grid.RowDefinitions>
+            <RowDefinition Height="49*"/>
+            <RowDefinition Height="9*"/>
+        </Grid.RowDefinitions>
+
+        <MyUserControl:NumericUpDown HorizontalAlignment="Left" Height="125" Margin="60,28,0,0" VerticalAlignment="Top" Width="198"/>
+
+        <WpfControlLibrary4:UserControl1 HorizontalAlignment="Left" Height="97" Margin="43,158,0,0" VerticalAlignment="Top" Width="215" Loaded="UserControl1_Loaded" Grid.RowSpan="2"/>
+
+        <Button x:Name="Button1" Width="80" Height="20" Content="Выход"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Top"
+                Command="local:WindowCommands.Exit"/>
+    </Grid>
+</Window>
