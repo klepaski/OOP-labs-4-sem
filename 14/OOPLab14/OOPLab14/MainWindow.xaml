@@ -1,0 +1,18 @@
+﻿<Window x:Class="OOPLab14.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OOPLab14"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid Name="grid1">
+        <Button Visibility="Hidden" Content="Create" Margin="10,10,440,267" Click="Create_Click"/>
+        <Button Content="Singleton" Margin="10,57,440,228" Click="Singleton_Click"/>
+        <Button Content="Builder" Margin="10,98,440,187" Click="Builder_Click" RenderTransformOrigin="0.5,0.433"/>
+        <Button Content="Clone" Margin="10,137,440,147" Click="Clone_Click"/>
+        <Button Content="Find" Margin="89,10,361,269" Click="Find_Click"/>
+        <TextBox Name="textbox1" Margin="89,55,294,228" RenderTransformOrigin="0.5,0.5"/>
+        <Button Content="Adapter" Margin="89,98,361,187" Click="Adapter_Click"/>
+    </Grid>
+</Window>
