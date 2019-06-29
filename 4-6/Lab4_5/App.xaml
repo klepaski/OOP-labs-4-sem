@@ -1,0 +1,18 @@
+﻿<Application x:Class="Lab4_5.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Lab4_5"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Resources/lang.xaml" />
+                <ResourceDictionary Source="Themes/Theme1.xaml" />
+                <ResourceDictionary Source="Themes/Theme2.xaml" />
+                <ResourceDictionary Source="Themes/Theme3.xaml" />
+                <ResourceDictionary Source="Resources/Triggers.xaml" />
+                <ResourceDictionary Source="Resources/Templates.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
